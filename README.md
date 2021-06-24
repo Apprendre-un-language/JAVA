@@ -1,23 +1,5 @@
 # JAVA
 
----
-language: java
-contributors:
-    - ["Jake Prather", "https://github.com/JakeHP"]
-    - ["Jakukyo Friel", "https://weakish.github.io"]
-    - ["Madison Dickson", "https://github.com/mix3d"]
-    - ["Simon Morgan", "https://sjm.io/"]
-    - ["Zachary Ferguson", "https://github.com/zfergus2"]
-    - ["Cameron Schermerhorn", "https://github.com/cschermerhorn"]
-    - ["Rachel Stiyer", "https://github.com/rstiyer"]
-    - ["Michael Dähnert", "https://github.com/JaXt0r"]
-    - ["Rob Rose", "https://github.com/RobRoseKnows"]
-    - ["Sean Nam", "https://github.com/seannam"]
-filename: java-fr.java
-translators:
-    - ['Mathieu Gemard', 'https://github.com/mgemard']
-lang: fr-fr
----
 Java est un langage orienté objet, concurrent et très facilement portable. Java
 est inspiré du C++ mais ne reprend pas tous les concepts comme par exemple les
 pointeurs et en ajoute de nouveaux comme les interfaces.
